@@ -2,7 +2,7 @@
 This repository is for showing how Git and GitHub work
 
 ## Introduction
-This is a test repo for learning git workflow
+This is a test repo for learning git workflow. Test branch
 ## Purpose
 The purpose of the document is not known
 
@@ -16,7 +16,7 @@ More changes from myfeature branch too!
 ## Deployment
 Righnow making some changes after stashing previous changes
 ## Copyright
-Copyright GK -2021- All rights reserved
+Copyright GK -2021- All rights reserved.
 
 
 Sample website with plenty of files for demos
